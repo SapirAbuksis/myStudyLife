@@ -1,0 +1,7 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/btn_sec_frame" />
+    <item android:drawable="@drawable/contact_icon"
+        android:width="60dp"
+        android:height="60dp"
+        android:gravity="center"/>
+</layer-list>

@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">myStudyLife</string>
+    <string name="nameApp">My Study Life</string>
+    <string name="created_by"> Study • Manage • Sucess</string>
+    <string name="textToast"> Please enter your name</string>
+    <string name="profile">Write here your name</string>
+    <string-array name="name_institute">
+        <item>Holon institute of technology</item>
+        <item>Tel aviv university</item>
+        <item>Ben-gurion university</item>
+        <item>The college of management</item>
+        <item>Technion israel institute</item>
+    </string-array>
+    <string name="submit_btn">Submit</string>
+    <string name="back_dialog">Exit?</string>
+    <string name="back_yes">Yes</string>
+    <string name="back_no">No</string>
+    <string name="contact_btn">Contact us</string>
+    <string name="calend">Calendar</string>
+    <string name="sub_test">Test</string>
+    <string name="sub_description">Description</string>
+    <string name="sub_time">Time</string>
+    <string name="add_time">Add time</string>
+    <string name="remin">Reminder</string>
+    <string name="email">Send an e-mail</string>
+    <string name="sender_from">From </string>
+    <string name="mail_to">To</string>
+    <string name="mail_Sender">Sender</string>
+    <string name="mail_Sub">Subject</string>
+    <string name="msg_dialog">Send a massage</string>
+    <string name="text_msg">Write a massage</string>
+    <string name="info_dialog">Welcome!</string>
+    <string name="choose_with">Choose an option</string>
+    <string name="sms_ok">Send</string>
+    <string name="sms_no">Cancel</string>
+    <string name="premission_call">You need a call premission </string>
+    <string name="time_choose">Choose hour:</string>
+    <string name="add_con">Add contact</string>
+    <string name="first_name">First name:</string>
+    <string name="last_name">Last name:</string>
+    <string name="mobile_phone">Phone:</string>
+    <string name="email_con">E-mail:</string>
+    <string name="call_aca">Call to Academic</string>
+    <string name="no_internet">ERROR 404!</string>
+    <string name="navi_map">Navigate with...</string>
+    <string name="text_note">Write a note</string>
+    <string name="text_con">Content</string>
+    <string name="add_note">Add</string>
+    <string name="remove_all_note">Remove All</string>
+    <string name="warning_error">Warning</string>
+    <string name="delete_note">Your note will be deleted</string>
+    <string name="delete_all_note">All note will be deleted</string>
+    <string name="ok_note">Ok</string>
+    <string name="no_note">No</string>
+    <string name="note_write">Write a note</string>
+    <string name="no_views">Please add at least one task</string>
+    <string name="task_toast">Task completed!</string>
+    <string name="first_toast">You can add note</string>
+    <string name="info_tittle">Welcome!</string>
+    <string name="info_con">A unique application that will help you manage your academic life properly! \n
+        You can add a test/assignment to a calendar, write a note, add a reminder about a mission,
+        call and navigate to academic, search the academic web,\n send an email or sms to a lecture, \n add a friend to contacts and more.
+        \n We hope you enjoy! \n\n MyStudyLife team.</string>
+    <string name="about">About us</string>
+    <string name="about_desc">© All rights reserved © \n This application created by \n</string>
+    <string name="about_me"> Sapir Abuksis</string>
+    <string name="about_desc2">\nVersion 1.1.0</string>
+
+
+</resources>

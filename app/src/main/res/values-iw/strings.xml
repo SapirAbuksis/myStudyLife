@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">myStudyLife</string>
+    <string name="about">אודות</string>
+    <string name="about_desc">" © כל הזכויות שמורות  © \n האפליקציה נוצרה על ידי </string>
+    <string name="about_me">ספיר אבוקסיס</string>
+    <string-array name="name_institute">
+        <item>המכון הטכנולוגי חולון</item>
+        <item>אוניברסיטת תל אביב</item>
+        <item>אוניברסיטת בן גוריון</item>
+        <item>המכללה למנהל ראשון לציון</item>
+        <item>הטכניון-מכון טכנולוגי לישראל</item>
+    </string-array>
+    <string name="add_con">הוסף איש קשר</string>
+    <string name="add_note">הוסף</string>
+    <string name="add_time">בחר שעה</string>
+    <string name="back_dialog">יציאה?</string>
+    <string name="back_no">לא</string>
+    <string name="back_yes">כן</string>
+    <string name="calend">לוח שנה</string>
+    <string name="call_aca">התקשר לאקדמיה</string>
+    <string name="choose_with">בחר אופציה</string>
+    <string name="contact_btn">צור קשר</string>
+    <string name="delete_all_note">כל הפתקים ימחקו</string>
+    <string name="delete_note">הפתק שלך ימחק</string>
+    <string name="email">שלח מייל</string>
+    <string name="email_con">כתובת מייל:</string>
+    <string name="first_name">שם פרטי:</string>
+    <string name="info_tittle">ברוך הבא!</string>
+    <string name="last_name">שם משפחה:</string>
+    <string name="mail_Sender">שולח</string>
+    <string name="mail_Sub">נושא</string>
+    <string name="info_dialog">ברוך הבא!</string>
+    <string name="first_toast">אתה יכול להוסיף פתק</string>
+    <string name="mail_to">אל</string>
+    <string name="mobile_phone">מספר טלפון:</string>
+    <string name="msg_dialog">שלח הודעה</string>
+    <string name="navi_map">נווט עם...</string>
+    <string name="no_internet">שגיאה 404</string>
+    <string name="no_note">לא</string>
+    <string name="no_views">נא הוסף לפחות משימה אחת</string>
+    <string name="note_write">כתוב פתק</string>
+    <string name="premission_call">אתה צריך הרשאה</string>
+    <string name="profile">כתוב כאן את שמך</string>
+    <string name="remin">תזכורת</string>
+    <string name="remove_all_note">מחק הכל</string>
+    <string name="sender_from">מאת</string>
+    <string name="sms_no">יציאה</string>
+    <string name="sms_ok">שלח</string>
+    <string name="sub_description">תיאור</string>
+    <string name="sub_test">מבחן</string>
+    <string name="sub_time">זמן</string>
+    <string name="submit_btn">היכנס</string>
+    <string name="task_toast">מטלה בוצעה!</string>
+    <string name="text_con">תוכן</string>
+    <string name="text_msg">כתוב הודעה</string>
+    <string name="text_note">כתוב פתק</string>
+    <string name="textToast">הכנס את שמך</string>
+    <string name="time_choose">בחר שעה:</string>
+    <string name="warning_error">אזהרה</string>
+    <string name="created_by">ללמוד • לנהל • להצליח</string>
+    <string name="nameApp">My Study Life</string>
+    <string name="ok_note">אישור</string>
+    <string name="about_desc2">" \n גירסא 1.1.0 "</string>
+    <string name="info_con">אפליקציה ייחודית שתעזור לך לנהל את חיי הלימודים שלך כמו שצריך! \n
+            אתה יכול להוסיף מבחן/מטלה ליומן, לכתוב פתק, להוסיף תזכורת לגבי משימה,
+        להתקשר או לנווט לאקדמיה, לחפש את האקדמיה באינטרנט, \n לשלוח מייל או הודעה למרצה, \n להוסיף חבר לאנשי קשר ועוד.
+        \n אנחנו מקווים שתהנה! \n\n .MyStudyLife צוות</string>
+</resources>
