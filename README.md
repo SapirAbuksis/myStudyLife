@@ -10,6 +10,6 @@
 :alarm_clock: Make a reminder in alarm Clock <br>
 :mag_right:	 Navigate to academic <br>
 :email: Send an e-mail <br>
-:massage: Write a massage <br>
+:clipboard:	Write a massage <br>
 :globe_with_meridians: Enter to the web acadmic <br>
 :woman:	Add a contact <br>
