@@ -19,7 +19,7 @@
 ![info](https://user-images.githubusercontent.com/50196376/58762449-ca59a680-8558-11e9-8a49-f89db5626893.png)
 
 <br>
-<b> Main: <b> <br>
+ <b> Main: </b> <br>
 ![user_main](https://user-images.githubusercontent.com/50196376/58762404-75b62b80-8558-11e9-898c-bc71ef86061e.png)
 
 <br>
