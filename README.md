@@ -24,4 +24,4 @@ Main: <br>
 
 <br><br>
 About us: <br> <br>
-![about](https://user-images.githubusercontent.com/50196376/58762461-e9583880-8558-11e9-876f-06218f9e7c9c.png)
+![about](https://user-images.githubusercontent.com/50196376/58762483-11479c00-8559-11e9-9d78-b27f3848f8e7.png)
