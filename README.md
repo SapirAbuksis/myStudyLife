@@ -14,14 +14,14 @@
 :globe_with_meridians: Enter to the web acadmic <br>
 :woman:	Add a contact <br><br><br>
 
-Opening Screen: <br>
-![info](https://user-images.githubusercontent.com/50196376/58762449-ca59a680-8558-11e9-8a49-f89db5626893.png)
+<h1> Opening Screen:</h1>  <br>
 ![login](https://user-images.githubusercontent.com/50196376/58762450-cc236a00-8558-11e9-906c-6ba237adae4e.png)
+![info](https://user-images.githubusercontent.com/50196376/58762449-ca59a680-8558-11e9-8a49-f89db5626893.png)
 
 <br><br>
-Main: <br>
+<h1> Main: </h1>  <br>
 ![user_main](https://user-images.githubusercontent.com/50196376/58762404-75b62b80-8558-11e9-898c-bc71ef86061e.png)
 
 <br><br>
-About us: <br> <br>
+<h1> About us: </h1> <br> 
 ![about](https://user-images.githubusercontent.com/50196376/58762483-11479c00-8559-11e9-9d78-b27f3848f8e7.png)
