@@ -19,9 +19,9 @@
 ![info](https://user-images.githubusercontent.com/50196376/58762449-ca59a680-8558-11e9-8a49-f89db5626893.png)
 
 <br>
- <b> Main: </b> <br>
+<b> Main: </b> <br>
 ![user_main](https://user-images.githubusercontent.com/50196376/58762404-75b62b80-8558-11e9-898c-bc71ef86061e.png)
 
 <br>
- <b> About us: </b> <br>
+<b> About us: </b> <br>
 ![about](https://user-images.githubusercontent.com/50196376/58762483-11479c00-8559-11e9-9d78-b27f3848f8e7.png)
