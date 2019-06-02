@@ -4,7 +4,7 @@
 • Experience in UX/UI design.
 
 <h1>WHAT CAN WE DO IN THIS APP? </h1>
-:notebook_with_decorative_cover: Write a note <br>
+:memo: Write a note <br>
 :telephone_receiver: Call to academic <br>
 :calendar: Create an event in Calendar <br>
 :alarm_clock: Make a reminder in alarm Clock <br>
